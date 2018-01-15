@@ -1,0 +1,32 @@
+text-align: right;
+}
+img {
+	align-items: center;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+	height: 50px;
+}
+#nav {
+	max-width: 750px;
+	margin: 0 auto;
+	list-style: none;
+	padding: 0;
+}
+#nav li {
+	float: left;
+	font-family: sans-serif;
+}
+#nav li a {
+	display: block;
+	color: black;
+	text-align: center;
+	width: 150px; /*fixed width */
+	text-decoration: none;
+}
+img {
+	max-width: 100%
+}
+
